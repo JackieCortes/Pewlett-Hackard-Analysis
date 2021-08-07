@@ -11,7 +11,20 @@ In this last part of the review, he had the task to look for:
 
 
 ## Results
-Provide a bulleted list with four major points from the two analysis deliverables. Use images as support where needed.
+Fror the new analsys we can say: 
+
+**Deliverable 1:** Number of retiring employees per title
+
+Three reports were attached in the [Data Folder] (https://github.com/JackieCortes/Pewlett-Hackard-Analysis/tree/main/Data)
+
+  1) From retirement_titles.csv, we can found the career path per each one of the potential retirees.
+
+  2) From unique_titles.csv,  we can know the potential retirees. This is the answer to the question of who will be retired with the advantage of knowing the current position. 
+
+  3) From retiring_titles.csv, HR knows the impact by title and traces a detailed strategy to recover the positions, if it is required.
+
+**Deliverable 2:**
+From the mentorship_eligibilty.csv data, we can obtain all the valuable information to know who will be the next for the future open positions.
 
 ## Summary
 Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
