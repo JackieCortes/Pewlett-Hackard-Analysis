@@ -25,7 +25,9 @@ Three reports were attached in the [Data Folder](https://github.com/JackieCortes
   2) From unique_titles.csv,  we can know the potential retirees. This is the answer to the question of who will be retired with the advantage of knowing the current position. 
 
   3) From retiring_titles.csv, HR knows the impact by title and traces a detailed strategy to recover the positions, if it is required. 
-  ![retiring_titles](https://github.com/JackieCortes/Pewlett-Hackard-Analysis/blob/main/Ret_Titles.PNG)
+ 
+ ![retiring_titles](https://github.com/JackieCortes/Pewlett-Hackard-Analysis/blob/main/Ret_Titles.PNG)
+  
 We can see the priority for this plan will be "Senior Engineer" & "Senior Staff" positions, taking care of this population will be cover the 64%. And our third place will the Engineer position reaching 71% of the table. So HR can be focus on this positions and use the information of points 1 & 2 to preview the career path and who will be the retirees.
 
 **Deliverable 2:**
@@ -45,7 +47,7 @@ Because of the headcount constraint, the rest of the population can also impact 
 * Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
 Reviewing a counting of the next generation from the mentorship_elegibility table, we can observe there are hundreds of employees versus the thousands of retirement-ready generation. So yes, the population is enough as mentors. And we can notice is urgent to hire new employees to start to prepare the new generations.
 
-[Mentees born in 1965 generation]()
+[Mentees - born in 1965 generation](https://github.com/JackieCortes/Pewlett-Hackard-Analysis/blob/main/Ret_Titles_new.PNG)
 
 ## Resources
-If you want to see the ![SQL code: Employee_Database_challenge.sql](https://github.com/JackieCortes/Pewlett-Hackard-Analysis/tree/main/Queries), please click on the link.
+If you want to see the [SQL code: Employee_Database_challenge.sql](https://github.com/JackieCortes/Pewlett-Hackard-Analysis/tree/main/Queries), please click on the link.
