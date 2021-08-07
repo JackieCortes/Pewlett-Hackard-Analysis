@@ -47,7 +47,7 @@ Because of the headcount constraint, the rest of the population can also impact 
 * Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
 Reviewing a counting of the next generation from the mentorship_elegibility table, we can observe there are hundreds of employees versus the thousands of retirement-ready generation. So yes, the population is enough as mentors. And we can notice is urgent to hire new employees to start to prepare the new generations.
 
-[Mentees - born in 1965 generation](https://github.com/JackieCortes/Pewlett-Hackard-Analysis/blob/main/Ret_Titles_new.PNG)
+![Mentees - born in 1965 generation](https://github.com/JackieCortes/Pewlett-Hackard-Analysis/blob/main/Ret_Titles_new.PNG)
 
 ## Resources
 If you want to see the [SQL code: Employee_Database_challenge.sql](https://github.com/JackieCortes/Pewlett-Hackard-Analysis/tree/main/Queries), please click on the link.
