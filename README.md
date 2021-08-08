@@ -60,6 +60,6 @@ Adding that the headcount from employees who born from 1956 to 1964, we saw that
 ![Generation 1956-1964](https://github.com/JackieCortes/Pewlett-Hackard-Analysis/blob/main/outofRange.PNG)
 
 ### Resources
-If you want to see the [SQL code: Employee_Database_challenge.sql](https://github.com/JackieCortes/Pewlett-Hackard-Analysis/tree/main/Queries), please click on the link.
+If you want to see the code, please click on [SQL code: Employee_Database_challenge.sql](https://github.com/JackieCortes/Pewlett-Hackard-Analysis/tree/main/Queries).
 
-To see the extra tables code, please click on [Extra.sql](https://github.com/JackieCortes/Pewlett-Hackard-Analysis/tree/main/Extra)
+To see the extra tables code, please click on [Extra.sql](https://github.com/JackieCortes/Pewlett-Hackard-Analysis/tree/main/Extra).
