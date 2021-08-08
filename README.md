@@ -28,10 +28,10 @@ Three reports were attached in the [Data Folder](https://github.com/JackieCortes
  
  ![retiring_titles](https://github.com/JackieCortes/Pewlett-Hackard-Analysis/blob/main/Ret_Titles.PNG)
   
-We can see the priority for this plan will be "Senior Engineer" & "Senior Staff" positions, taking care of this population will be cover the 64%. And our third place will the Engineer position reaching 71% of the table. So HR can be focus on this positions and use the information of points 1 & 2 to preview the career path and who will be the retirees.
+We can see the priority for this plan will be the "Senior" positions because of the headcount they have. So HR can be focus on these positions and use the information of points 1 & 2 to preview the career path to be covered and who will be the retirees.
 
 **Deliverable 2:**
-From the mentorship_eligibilty.csv data, we can obtain all the valuable information to know who will be the next candidate to be retired and who can help to prepare the next generation or cover the positions to be opened with all important details.
+From the mentorship_eligibilty.csv data, we can obtain all the valuable information to know who will be the next candidates to be retired into next generation and who can help to cover the positions. To see the fields from the table of the 1965 generation, please observe the following image.
 
 ![mentorship_elegibility](https://github.com/JackieCortes/Pewlett-Hackard-Analysis/blob/main/mentor_eli.PNG)
 
@@ -40,15 +40,22 @@ From the mentorship_eligibilty.csv data, we can obtain all the valuable informat
 
 It is important to answer the following questions;
 
-* How many roles will need to be filled as the "silver tsunami" begins to make an impact?
-The number of potential retirements is 90,398 positions. Analyzing the figure of point 3 from the previous section, we can notice two Senior positions. These Senior positions are together 64% of the total, and if they go without transfer, their knowledge can impact the operation.
+* __How many roles will need to be filled as the "silver tsunami" begins to make an impact?__
 
-Because of the headcount constraint, the rest of the population can also impact the company representing 36%. 
+The number of potential retirements is 90,398 positions. Analyzing the figure of point 3 from the previous section, we can notice two Senior positions are critical. These Senior positions are together 64% of the total, and if they go out without knowledge transfer, they can impact the operation. So the Senior positions are key positions and it is strongly recommended to have a plan to fill the positions or to have a knowledge transfer.
 
-* Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
-Reviewing a counting of the next generation from the mentorship_elegibility table, we can observe there are hundreds of employees versus the thousands of retirement-ready generation. So yes, the population is enough as mentors. And we can notice is urgent to hire new employees to start to prepare the new generations.
+* __Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?__
 
+As there are no fields related to development ratings, there is no possibility to say if the retirement-ready employees are qualified to be mentors. However, based on the company results and headcount volume there is a high probability to have the correct population to do it. 
+
+**Suggestion:** 
+Reviewing the next generation count in the next extra table, we can observe there are hundreds versus the thousands of retirement-ready generation. So we can have a high chance to have good mentors and enough mentees into the 65's population.
 ![Mentees - born in 1965 generation](https://github.com/JackieCortes/Pewlett-Hackard-Analysis/blob/main/Ret_Titles_new.PNG)
 
-## Resources
+Adding that the headcount from employees who born from 1956 to 1964, we saw that there are more employees who can take the mentorship program to be mentors or mentees as soon the retirement-ready population leave totally the company. Please, observe the following numbers. However, it is important to point out that have a replacement plan is fundamental.
+
+![Generation 1956-1964](https://github.com/JackieCortes/Pewlett-Hackard-Analysis/blob/main/Extra/out_ofrange.csv)
+
+### Resources
 If you want to see the [SQL code: Employee_Database_challenge.sql](https://github.com/JackieCortes/Pewlett-Hackard-Analysis/tree/main/Queries), please click on the link.
+To see the extra tables code, please click on [Extra.sql](https://github.com/JackieCortes/Pewlett-Hackard-Analysis/tree/main/Extra)
