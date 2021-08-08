@@ -48,12 +48,15 @@ The number of potential retirements is 90,398 positions. Analyzing the figure of
 
 As there are no fields related to development ratings, there is no possibility to say if the retirement-ready employees are qualified to be mentors. However, based on the company results and headcount volume there is a high probability to have the correct population to do it. 
 
-**Suggestion:** 
-Reviewing the next generation count in the next extra table, we can observe there are hundreds versus the thousands of retirement-ready generation. So we can have a high chance to have good mentors and enough mentees into the 65's population.
+**Extra information:** 
+Reviewing the 65's generation count in the next extra table, we can observe there are hundreds versus the thousands of retirement-ready generation. So we can have a high chance to have good mentors and enough mentees into the 65's population.
+
+65's Headcount title:
 ![Mentees - born in 1965 generation](https://github.com/JackieCortes/Pewlett-Hackard-Analysis/blob/main/Ret_Titles_new.PNG)
 
 Adding that the headcount from employees who born from 1956 to 1964, we saw that there are more employees who can take the mentorship program to be mentors or mentees as soon the retirement-ready population leave totally the company. Please, observe the following numbers. However, it is important to point out that have a replacement plan is fundamental.
 
+1956 - 1964 Headcount by title:
 ![Generation 1956-1964](https://github.com/JackieCortes/Pewlett-Hackard-Analysis/blob/main/outofRange.PNG)
 
 ### Resources
