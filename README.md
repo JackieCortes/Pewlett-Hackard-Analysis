@@ -54,7 +54,7 @@ Reviewing the next generation count in the next extra table, we can observe ther
 
 Adding that the headcount from employees who born from 1956 to 1964, we saw that there are more employees who can take the mentorship program to be mentors or mentees as soon the retirement-ready population leave totally the company. Please, observe the following numbers. However, it is important to point out that have a replacement plan is fundamental.
 
-![Generation 1956-1964](https://github.com/JackieCortes/Pewlett-Hackard-Analysis/blob/main/Extra/out_ofrange.csv)
+![Generation 1956-1964](https://github.com/JackieCortes/Pewlett-Hackard-Analysis/blob/main/outofRange.PNG)
 
 ### Resources
 If you want to see the [SQL code: Employee_Database_challenge.sql](https://github.com/JackieCortes/Pewlett-Hackard-Analysis/tree/main/Queries), please click on the link.
