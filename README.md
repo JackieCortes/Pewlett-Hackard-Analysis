@@ -52,11 +52,13 @@ As there are no fields related to development ratings, there is no possibility t
 Reviewing the 65's generation count in the following extra table, we can observe hundreds versus thousands of retirement-ready generations. So we can have a high chance to have good mentors and enough mentees into the 65's population.
 
 65's Headcount title:
+
 ![Mentees - born in 1965 generation](https://github.com/JackieCortes/Pewlett-Hackard-Analysis/blob/main/Ret_Titles_new.PNG)
 
 Adding to the headcount from employees born from 1956 to 1964, we saw that more employees could take the mentorship program to be mentors or mentees as soon the retirement-ready population leaves the company. Please, observe the following numbers. However, it is essential to point out that have a replacement plan is fundamental.
 
 1956 - 1964 Headcount by title:
+
 ![Generation 1956-1964](https://github.com/JackieCortes/Pewlett-Hackard-Analysis/blob/main/outofRange.PNG)
 
 ### Resources
