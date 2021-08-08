@@ -32,7 +32,8 @@ We can see the priority for this plan will be "Senior Engineer" & "Senior Staff"
 
 **Deliverable 2:**
 From the mentorship_eligibilty.csv data, we can obtain all the valuable information to know who will be the next candidate to be retired and who can help to prepare the next generation or cover the positions to be opened with all important details.
-[mentorship_elegibility](https://github.com/JackieCortes/Pewlett-Hackard-Analysis/blob/main/mentor_eli.PNG)
+
+![mentorship_elegibility](https://github.com/JackieCortes/Pewlett-Hackard-Analysis/blob/main/mentor_eli.PNG)
 
 
 ## Summary
