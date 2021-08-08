@@ -38,23 +38,23 @@ From the mentorship_eligibilty.csv data, we can obtain all the valuable informat
 
 ## Summary
 
-It is important to answer the following questions;
+It is important to answer the following questions:
 
 * __How many roles will need to be filled as the "silver tsunami" begins to make an impact?__
 
-The number of potential retirements is 90,398 positions. Analyzing the figure of point 3 from the previous section, we can notice two Senior positions are critical. These Senior positions are together 64% of the total, and if they go out without knowledge transfer, they can impact the operation. So the Senior positions are key positions and it is strongly recommended to have a plan to fill the positions or to have a knowledge transfer.
+The number of potential retirements is 90,398 positions. Analyzing the figure of point 3 from the previous section, we can notice the two Senior positions as critical ones. These Senior positions represent 64% of the total, and if they go out without knowledge transfer, they can impact the operation. So the Senior positions are key positions, and it is strongly recommended to have a plan to fill the positions or to have a knowledge transfer.
 
 * __Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?__
 
-As there are no fields related to development ratings, there is no possibility to say if the retirement-ready employees are qualified to be mentors. However, based on the company results and headcount volume there is a high probability to have the correct population to do it. 
+As there are no fields related to development ratings, there is no possibility to say if the retirement-ready employees are qualified to be mentors. However, based on the company results and headcount volume, there is a high probability of having the correct population. 
 
 **Extra information:** 
-Reviewing the 65's generation count in the next extra table, we can observe there are hundreds versus the thousands of retirement-ready generation. So we can have a high chance to have good mentors and enough mentees into the 65's population.
+Reviewing the 65's generation count in the following extra table, we can observe hundreds versus thousands of retirement-ready generations. So we can have a high chance to have good mentors and enough mentees into the 65's population.
 
 65's Headcount title:
 ![Mentees - born in 1965 generation](https://github.com/JackieCortes/Pewlett-Hackard-Analysis/blob/main/Ret_Titles_new.PNG)
 
-Adding that the headcount from employees who born from 1956 to 1964, we saw that there are more employees who can take the mentorship program to be mentors or mentees as soon the retirement-ready population leave totally the company. Please, observe the following numbers. However, it is important to point out that have a replacement plan is fundamental.
+Adding to the headcount from employees born from 1956 to 1964, we saw that more employees could take the mentorship program to be mentors or mentees as soon the retirement-ready population leaves the company. Please, observe the following numbers. However, it is essential to point out that have a replacement plan is fundamental.
 
 1956 - 1964 Headcount by title:
 ![Generation 1956-1964](https://github.com/JackieCortes/Pewlett-Hackard-Analysis/blob/main/outofRange.PNG)
